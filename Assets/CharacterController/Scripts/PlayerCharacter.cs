@@ -25,4 +25,9 @@ public class PlayerCharacter : MonoBehaviour
     {
         currentDirectionInput = context.ReadValue<Vector2>();
     }
+
+
+
+
+
 }
